@@ -4,6 +4,9 @@ Ever found yourself staring at the terminal, completely blanking on the exact `f
 
 **DevPilot** is a lightning-fast, cross-platform CLI assistant written purely in **C++**. You type what you want to do in plain English, and it uses **Groq's Llama 3.1** to instantly generate the exact terminal command for your specific operating system.
 
+![C++](https://img.shields.io/badge/C++-17-blue)
+![Build](https://img.shields.io/badge/Build-CMake-success)
+![LLM](https://img.shields.io/badge/Powered%20By-Groq%20%7C%20Llama%203.1-orange)
 ## See it in Action
 <p align="center">
   <img src="devpilot linux terminal.png" width="600"/>
